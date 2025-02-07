@@ -10,7 +10,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.RelatedAssemblyAttribute("ApiCatalogoJogos.Views")]
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.RelatedAssemblyAttribute("ExemploApiCatalogoJogos.Views")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
 
